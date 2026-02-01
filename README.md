@@ -20,7 +20,6 @@ Eliminate AWS cloud waste with automated multi-region scanning, cost impact repo
 
 ## Included Files
 - `workflow.json`
-- `metadata.json`
 
 ## Setup
 1. Import `workflow.json` into n8n.
@@ -44,6 +43,11 @@ Eliminate AWS cloud waste with automated multi-region scanning, cost impact repo
 ## Author
 
 Murtaza Baig
+
+## Screenshots
+
+![Screenshot](assets/n8nworfklows.webp)
+![Screenshot](assets/thumbnail.webp)
 
 ## License
 MIT License. See `LICENSE`.
